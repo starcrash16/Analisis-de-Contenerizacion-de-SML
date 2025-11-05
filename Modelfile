@@ -1,0 +1,2 @@
+# Usar el modelo OFICIAL de deepseek
+FROM deepseek-r1:1.5b

@@ -59,7 +59,7 @@ Esta sinergia habilita arquitecturas de **IA híbrida**, donde los SMLs operan l
 
 ---
 
-## ☸️ Kubernetes y Orquestación
+## Kubernetes y Orquestación
 
 Kubernetes extiende la contenerización mediante:
 - Escalado horizontal automático.
@@ -104,7 +104,7 @@ El procedimiento evidencia:
 
 ## Repositorio del Proyecto
 
-🔗 [https://github.com/starcrash16/Analisis-de-Contenerizacion-de-SML](https://github.com/starcrash16/Analisis-de-Contenerizacion-de-SML)
+[https://github.com/starcrash16/Analisis-de-Contenerizacion-de-SML](https://github.com/starcrash16/Analisis-de-Contenerizacion-de-SML)
 
 ---
 
